@@ -4,6 +4,7 @@ ADD https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.99/bin/apache-tomcat-8.5.99.ta
 RUN tar -xzf apache-tomcat-8.5.99.tar.gz -C /opt/
 WORKDIR /opt/apache-tomcat-8.5.99
 COPY context.xml conf/context.xml
+ADD https://s3-us-west-2.amazonaws.com/studentapi-cit/mysql-connector.jar lib/
 COPY student.war webapps/student.war
 EXPOSE 8080
 ENTRYPOINT [ "bin/catalina.sh"]
