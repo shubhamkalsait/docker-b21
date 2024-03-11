@@ -12,4 +12,4 @@ How to containerize the application?
 Database -> Deploy DATABASE SCHEMA -> EXTRACT CRED
 
  -> Backend -> context.xml 
- -> Frontend
+ -> Frontend -> 
