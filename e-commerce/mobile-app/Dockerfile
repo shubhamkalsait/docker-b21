@@ -1,0 +1,7 @@
+FROM centos:7
+RUN yum install httpd -y
+RUN mkdir /var/www/html/mobilt
+COPY index.html /var/www/html/mobile/index.html
+EXPOSE 80
+ENTRYPOINT [ "httpd" ]
+CMD [ "-DFOREGROUND" ]
