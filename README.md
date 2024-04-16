@@ -16,3 +16,6 @@ Database -> Deploy DATABASE SCHEMA -> EXTRACT CRED
 
 
 # Sonarqube
+Code Quality
+
+Testing
