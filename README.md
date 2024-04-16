@@ -18,8 +18,5 @@ Database -> Deploy DATABASE SCHEMA -> EXTRACT CRED
 # Sonarqube
 Code Quality - Efficeinecy 
 
-
-10 line
-
-
-100 code
+cloud app
+web app
