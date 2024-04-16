@@ -18,5 +18,5 @@ Database -> Deploy DATABASE SCHEMA -> EXTRACT CRED
 # Sonarqube
 Code Quality - Efficeinecy 
 
-cloud app
-web app
+cloud app - hosted
+web app - self host
