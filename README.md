@@ -19,4 +19,4 @@ Database -> Deploy DATABASE SCHEMA -> EXTRACT CRED
 Code Quality - Efficeinecy 
 
 cloud app - hosted
-web app - self host
+web app - self host 9000
