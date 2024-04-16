@@ -17,13 +17,3 @@ Database -> Deploy DATABASE SCHEMA -> EXTRACT CRED
 
 # Sonarqube
 Code Quality
-
-Testing
-
-Application 
-Cases testing
-Quality
-App quality
-Velnarabilities
-security check
-unit test
