@@ -13,3 +13,6 @@ Database -> Deploy DATABASE SCHEMA -> EXTRACT CRED
 
  -> Backend -> context.xml 
  -> Frontend -> 
+
+
+# Sonarqube
