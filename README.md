@@ -19,3 +19,7 @@ Database -> Deploy DATABASE SCHEMA -> EXTRACT CRED
 Code Quality - Efficeinecy 
 
 
+10 line
+
+
+100 code
